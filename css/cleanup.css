@@ -12,11 +12,6 @@ div#wall div#tag-3.slick{
   display: none;
 }
 
-div#wall #tag-3.slick {
-  background: url(../images/tag-3.png) no-repeat;
-  z-index: 5;
-  display: block;
-}
 
 #wall #tag-4 {
   background: url(../images/tag-4.png) no-repeat;
